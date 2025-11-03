@@ -31,7 +31,6 @@ To bridge business expertise with technology, I pursued several **data science c
 
 * Deploying ML models on **AWS** and **Streamlit**
 * Using **LSTM and Transformers** for retail demand forecasting
-* Developing an **AI Fashion Stylist** prototype for [Data4Fashion.com](https://data4fashion.com)
 * Combining **fashion and food retail analytics** to improve customer and operational insights
 
 ---
