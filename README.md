@@ -1,6 +1,6 @@
 Hi, I'm **Masud Rana**
 
-**Data Scientist (MSc, UK) | Retail & Merchandising Analytics | Fashion & Food Retail | Python · ML · SQL**
+**Retail Data Scientist (MSc, UK) | Fashion & Food Retail Analytics | Python · SQL · Power BI · Machine Learning**
 
 I’m a retail-focused data scientist with a strong foundation in **merchandising, supply chain, and retail operations** — developed through years of hands-on experience in the fashion and food retail industry. My journey began in product development and merchandising, where I learned the real-world dynamics of pricing, sales forecasting, and consumer behaviour.
 
