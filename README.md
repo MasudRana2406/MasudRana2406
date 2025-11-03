@@ -40,4 +40,4 @@ To bridge business expertise with technology, I pursued several **data science c
 
 [Portfolio & Blog – Data4Fashion.com](https://data4fashion.com)
 [LinkedIn](https://linkedin.com/in/masudrana2406)
-**[Email](mailto:masudrana.datascientist@gmail.com)
+[Email](mailto:masudrana.datascientist@gmail.com)
