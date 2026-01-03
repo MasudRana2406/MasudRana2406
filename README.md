@@ -8,7 +8,7 @@ To bridge business expertise with technology, I pursued several **data science c
 
 ---
 
-### Featured Projects
+### Featured Projects(Planned)
 
 | Project                                      | Description                                                                                                                  | Tech                                |
 | -------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
