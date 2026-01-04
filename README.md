@@ -12,12 +12,12 @@ To bridge business expertise with technology, I pursued several **data science c
 
 | Project                                      | Description                                                                                                                  | Tech                                |
 | -------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
-| **Retail Demand & Inventory Forecasting** | Forecasted sales and optimized stock levels using Prophet and LSTM models for improved service levels and reduced overstock. | Python, Time Series, Deep Learning  |
-| **Customer Segmentation & Insights**      | Applied clustering and RFM analysis to segment shoppers by purchasing behaviour and loyalty for targeted marketing.          | K-Means, Pandas, Power BI           |
-| **Market Basket Analysis**                | Discovered frequently bought-together product combinations to support cross-selling strategies in retail.                    | Association Rules, Apriori          |
-| **Product Recommendation System**         | Built a recommendation engine based on customer preferences and past purchases to personalize shopping experience.           | Collaborative Filtering, TensorFlow |
-| **Credit Risk Classification**            | Predicted credit card default probability and balanced data using SMOTE for improved classification accuracy.                | Scikit-learn, XGBoost               |
-| **Cross-Domain Sentiment Analysis**       | Compared Amazon and Sephora product reviews using DistilBERT to explore performance under domain shift.                      | NLP, Transformers                   |
+| **[Retail Demand & Inventory Forecasting](https://github.com/MasudRana2406/Integrating-Demand-Forecasting-and-Inventory-Optimization)** | Forecasted sales and optimized inventory using CatBoost, LSTM, and SARIMA models to enhance service levels and minimize stockouts. | Python, Time Series, ML, Deep Learning, Inventory Optimization |
+| **[Customer Segmentation & Insights](https://github.com/MasudRana2406/Customer-Segmentation-for-Personalized-Marketing-)** | Applied clustering and RFM analysis to segment shoppers by purchasing behaviour and loyalty for targeted marketing campaigns. | K-Means, Pandas, Power BI           |
+| **Market Basket Analysis**                   | Discovered frequently bought-together product combinations to support cross-selling strategies in retail.                    | Association Rules, Apriori          |
+| **Product Recommendation System**            | Built a recommendation engine based on customer preferences and past purchases to personalize shopping experience.           | Collaborative Filtering, TensorFlow |
+| **Credit Risk Classification**               | Predicted credit card default probability and balanced data using SMOTE for improved classification accuracy.                | Scikit-learn, XGBoost               |
+| **Cross-Domain Sentiment Analysis**          | Compared Amazon and Sephora product reviews using DistilBERT to explore performance under domain shift.                      | NLP, Transformers                   |
 
 ---
 
