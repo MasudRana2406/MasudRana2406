@@ -4,7 +4,7 @@ Hi, I'm **Masud Rana**
 
 I’m a retail-focused data scientist with a strong foundation in **merchandising, supply chain, and retail operations** — developed through years of hands-on experience in the fashion and food retail industry. My journey began in product development and merchandising, where I learned the real-world dynamics of pricing, sales forecasting, and consumer behaviour.
 
-To bridge business expertise with technology, I pursued several **data science certifications** and an **MSc in Data Science (UK)**, gaining advanced skills in machine learning, deep learning, and data visualization. Today, I leverage this unique blend of retail knowledge and analytical skill to deliver **data-driven solutions** that optimize inventory, enhance customer experience, and improve profitability.
+To bridge business expertise with technology, I pursued several **data science certifications** and an **MSc in Data Science (UK)**, gaining advanced skills in machine learning, deep learning, and data visualization. Today, I use my retail expertise and analytical skills to deliver data-driven solutions that optimize inventory, enhance customer experience, and improve profitability.
 
 ---
 
