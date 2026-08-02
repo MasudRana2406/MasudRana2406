@@ -4,11 +4,29 @@ Hi, I'm **Masud Rana**
 
 I’m a retail-focused data scientist with a strong foundation in **merchandising, supply chain, and retail operations** — developed through years of hands-on experience in the fashion and food retail industry. My journey began in product development and merchandising, where I learned the real-world dynamics of pricing, sales forecasting, and consumer behaviour.
 
-To bridge business expertise with technology, I pursued several **data science certifications** and an **MSc in Data Science (UK)**, gaining advanced skills in machine learning, deep learning, and data visualization. Today, I use my retail expertise and analytical skills to deliver data-driven solutions that optimize inventory, enhance customer experience, and improve profitability.
+To bridge business expertise with technology, I pursued several **data science certifications** and an **MSc in Data Science (UK)**, gaining advanced skills in machine learning, deep learning, and data visualization. Today, I use my retail expertise and analytical skills to deliver data-driven solutions that optimise inventory, enhance customer experience, and improve profitability.
+
+**Retail Merchandising & Sourcing Professional | Retail Analytics | AI Automation· Data Science · Machine Learning**
+
+I am a Retail Merchandising & Sourcing Professional with extensive experience in fashion and retail supply chain operations, specialising in product development, vendor management, sourcing strategy, costing, sales planning, and commercial decision-making.
+
+Throughout my career, I have managed end-to-end retail processes — from product concept development and supplier coordination to pricing, demand planning, inventory management, and order execution. Working with international retail brands has provided me with a deep practical understanding of consumer behaviour, market trends, merchandising strategies, and operational challenges within global retail environments.
+
+To enhance my business expertise with modern technology, I pursued an MSc in Data Science (UK) and developed advanced capabilities in Python, SQL, Power BI, Machine Learning, Artificial Intelligence, and data-driven analytics.
+
+Today, I combine my strong retail industry knowledge with AI and analytical skills to develop solutions that support:
+
+- Demand forecasting and inventory optimisation
+- Customer segmentation and retail analytics
+- AI-powered business insights
+- Retail process automation
+- Data-driven merchandising and sourcing strategies
+
+My focus is to bridge the gap between retail business expertise and emerging AI technologies, helping organisations transform operational data into actionable insights, improve efficiency, and make smarter commercial decisions.
 
 ---
 
-### Featured Projects(Planned)
+### Featured Projects
 
 | Project                                      | Description                                                                                                                  | Tech                                |
 | -------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
