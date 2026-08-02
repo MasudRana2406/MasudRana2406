@@ -36,11 +36,6 @@ My focus is to bridge the gap between retail business expertise and emerging AI 
 
 ---
 
-### Currently Exploring
-
-* Deploying ML models on **AWS** and **Streamlit**
-* Using **LSTM and Transformers** for retail demand forecasting
-* Combining **fashion and food retail analytics** to improve customer and operational insights
 
 ---
 
